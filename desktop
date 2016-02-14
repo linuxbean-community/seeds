@@ -211,5 +211,5 @@ to compile a driver. -mdz
  * (libwmf0.2-7-gtk)
  * (plymouth-theme-ubuntu-logo)
  * (python3-aptdaemon.pkcompat) # needed to keep packagekit off the images
- * xserver-xorg-lts-vivid
- * xserver-xorg-video-all-lts-vivid
+ * xserver-xorg-lts-wily
+ * xserver-xorg-video-all-lts-wily
