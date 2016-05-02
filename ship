@@ -1,6 +1,6 @@
 == Kernel ==
 
- * linux-generic-lts-wily [amd64 i386 ppc64el arm64]
+ * linux-generic-lts-xenial [amd64 i386 ppc64el arm64]
 
 == Server ==
 
