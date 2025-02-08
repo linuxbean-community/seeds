@@ -1,5 +1,7 @@
 feature follow-recommends
-include platform.trusty
+# TODO Merge feature/triforium into trusty
+#include platform.trusty
+include platform.feature/triforium
 desktop: desktop-common
 dns-server: standard
 lamp-server: standard
