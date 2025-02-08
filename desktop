@@ -32,6 +32,7 @@ Input methods:
  * uim-gtk2.0
  * uim-gtk3
  * uim-xim
+ * im-switch
 
 = Desktop GNOME Apps =
 
@@ -41,6 +42,7 @@ We've chosen GNOME as our desktop user interface of choice. Rather than using th
  * (transmission-gtk)       # simple GNOME frontend for bittorrent downloads
  * gnome-menus
  * (libpam-gnome-keyring)
+ * (firefox)
  * software-properties-gtk # default GUI sources.list editor / extra drivers
  * ubuntu-release-upgrader-gtk
  * update-manager
@@ -68,7 +70,98 @@ The gstreamer1.0 packages we want to install:
 
 = Other Desktop GUI Apps =
 
+== Accessories ==
+
+ * clipit
+ * gprename
+ * galculator
+ * gdmap
+ * gtkhash
+ * leafpad
+ * searchmonkey
+ * xfburn
+ * xournal
+ * wxhexeditor
+ * gpicview
+ * xpad
+ * xfce4-screenshooter
+ * menulibre
+
+== Games ==
+
+ * fceu
+ * gfceu
+ * pcsxr
+ * zsnes
+
+== Graphics ==
+
+ * comix
+ * font-manager
+ * imagemagick
+ * mtpaint
+
+== Internet ==
+
+ * jd
+ * filezilla
+ * sylpheed
+ * gwakeonlan
+ * uget
+ * xvnc4viewer
+
+== Office ==
+
+ * gnumeric
+
+== Programming ==
+
+ * geany
+ * meld
+
+== Sound & Video ==
+
+ * asunder
+ * audacity
+ * easytag
+ * gnome-alsamixer
+ * gogglesmm
+ * isomaster
+ * gxine
+ * gnome-media
+
+== System Tools ==
+
+ * bleachbit
+ * conky-all
+ * gdebi
+ * gsmartcontrol
+ * grsync
+ * skippy-xd
+ * hardinfo
+ * xfce4-terminal
+ * jstest-gtk
+ * lxtask
+
+== Preferences ==
+
+ * gparted
+ * grub-customizer
+ * lxkeymap
+ * ntfs-config
+ * synaptic
+ * ndisgtk
+ * pcmanfm
+ * gufw
  * (usb-creator-gtk) [i386 amd64]
+
+== Wine ==
+
+ * wine-gecko2.21
+ * wine-mono0.0.8
+ * wine1.6
+ * wine1.6-i386
+ * winetricks
 
 Desktop Experience:
 
@@ -76,9 +169,8 @@ Desktop Experience:
  * lxappearance-obconf
  * lxde-core
  * lxdm
+ * lxsession-edit
  * lxsession-logout
- * leafpad
- * xfce4-terminal
 
 = Development =
 
