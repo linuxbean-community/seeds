@@ -1,3 +1,4 @@
+feature follow-recommends
 include platform.trusty
 desktop: desktop-common
 dns-server: standard
