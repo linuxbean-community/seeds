@@ -103,7 +103,6 @@ The gstreamer1.0 packages we want to install:
 
 == Internet ==
 
- * jd
  * filezilla
  * sylpheed
  * gwakeonlan
@@ -137,7 +136,6 @@ The gstreamer1.0 packages we want to install:
  * gdebi
  * gsmartcontrol
  * grsync
- * skippy-xd
  * hardinfo
  * xfce4-terminal
  * jstest-gtk
@@ -146,7 +144,6 @@ The gstreamer1.0 packages we want to install:
 == Preferences ==
 
  * gparted
- * grub-customizer
  * lxkeymap
  * ntfs-config
  * synaptic
