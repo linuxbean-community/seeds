@@ -92,7 +92,7 @@ The gstreamer1.0 packages we want to install:
  * fceu
  * gfceu
  * pcsxr
- * zsnes
+ * zsnes [i386]
 
 == Graphics ==
 
@@ -157,7 +157,7 @@ The gstreamer1.0 packages we want to install:
  * wine-gecko2.21
  * wine-mono0.0.8
  * wine1.6
- * wine1.6-i386
+ * wine1.6-i386 [i386]
  * winetricks
 
 Desktop Experience:
