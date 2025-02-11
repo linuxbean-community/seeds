@@ -70,3 +70,7 @@ apport-symptoms
 python3-apport
 # pulled by network-manager-gnome
 humanity-icon-theme
+
+gnome-settings-daemon
+# in favor of xfce4-terminal
+lxterminal
