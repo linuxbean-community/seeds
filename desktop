@@ -169,7 +169,6 @@ Desktop Experience:
  * lxdm
  * lxsession-edit
  * lxsession-logout
- * yad # display bean_* dialogs
  * sysv-rc-conf
  * arandr
 
