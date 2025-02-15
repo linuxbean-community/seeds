@@ -170,6 +170,7 @@ Desktop Experience:
  * lxsession-edit
  * lxsession-logout
  * yad # display bean_* dialogs
+ * sysv-rc-conf
 
 = Development =
 
