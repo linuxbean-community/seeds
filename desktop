@@ -171,6 +171,7 @@ Desktop Experience:
  * lxsession-logout
  * yad # display bean_* dialogs
  * sysv-rc-conf
+ * arandr
 
 = Development =
 
