@@ -57,7 +57,6 @@ Themes: we will ship only the very best looking themes. We won't ship everything
 
  * gnome-themes-standard        # Adwaita cursor
  * clearlooks-phenix-theme
- * faenza-icon-theme
 
 Settings: we have some settings overrides by default in an unique package.
 
