@@ -140,6 +140,8 @@ The gstreamer1.0 packages we want to install:
  * xfce4-terminal
  * jstest-gtk
  * lxtask
+ * chntpw
+ * testdisk
 
 == Preferences ==
 
