@@ -77,3 +77,6 @@ lxterminal
 xscreensaver
 evince
 modemmanager
+# fix Chinese font is used for Japanese texts
+# FIXME maybe we should resolve this by fontconfig instead of removing the font itself
+fonts-droid
